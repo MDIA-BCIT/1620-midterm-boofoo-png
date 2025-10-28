@@ -1,3 +1,4 @@
+// New line to create a diff
 /*
 Create a function that simulates a simple password checking system. The function will take in a password and a user's input as parameters. It will then compare the user's input to the password.
 
